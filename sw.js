@@ -1,4 +1,4 @@
-const CACHE_NAME = 'prospectopro-v1.0.8';
+const CACHE_NAME = 'prospectopro-v1.0.10';
 const ASSETS = ['./sw.js', './manifest.json'];
 
 // ── INSTALL: cache only static assets, NOT index.html ──
